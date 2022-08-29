@@ -31,5 +31,5 @@ extension BusListRepository: BusListRepositoryInterface {
 ```
 
 # Step
-- import CSVParset
+- import CSVParser
 - call parseBundle(_:)
