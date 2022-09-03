@@ -3,7 +3,7 @@
 CSV Parser는 Bundle Path의 csv 파일을 파싱해서 [[String]] 형태로 반환 합니다
 
 # Example
-```
+```swift
 struct BusListRepository {
   private let parser = CSVParser()
   private let routesBundlePath = "Seoul_Bus_Routes"
